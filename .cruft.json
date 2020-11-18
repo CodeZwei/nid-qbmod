@@ -7,7 +7,7 @@
             "mod_id": "nidalee-skin",
             "repo_name": "nid-qbmod",
             "github_username": "CodeZwei",
-            "short_description": "Adds a Nidalee Outfit for Queen.\"",
+            "short_description": "Adds a Nidalee Outfit for Queen.",
             "long_description": "<h3>What does this mod include?</h3> <p>This mod adds a Nidalee Outfit for Queen.</p>",
             "version": "0.1.0",
             "_template": "https://github.com/CodeZwei/cruft-qbmod"

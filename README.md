@@ -1,6 +1,6 @@
 # Nidalee Outfit
 
-_Adds a Nidalee Outfit for Queen."_
+_Adds a Nidalee Outfit for Queen._
 
 A mod for [Queen's Brothel](https://queensbrothel.com/)
 
