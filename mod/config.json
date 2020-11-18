@@ -1,0 +1,16 @@
+{
+  "id": "nidalee-skin",
+  "name": "Nidalee Outfit",
+  "author": {
+    "name": "CodeZwei",
+    "url": "https://github.com/CodeZwei"
+  },
+  "type": "community",
+  "short_description": "Adds a Nidalee Outfit for Queen."",
+  "long_description": "<h3>What does this mod include?</h3> <p>This mod adds a Nidalee Outfit for Queen.</p>",
+  "version": "0.1.0",
+  "api": "1",
+  "dependencies": [],
+  "script": "mod.js",
+  "thumbnails": []
+}
