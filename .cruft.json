@@ -1,6 +1,6 @@
 {
     "template": "https://github.com/CodeZwei/cruft-qbmod",
-    "commit": "5b95f5af788300fd8fdc5c2e9696ac59535b7b59",
+    "commit": "77088c83c5428c77e58aa93f65b80acfe46a2223",
     "context": {
         "cookiecutter": {
             "mod_name": "Nidalee Outfit",
